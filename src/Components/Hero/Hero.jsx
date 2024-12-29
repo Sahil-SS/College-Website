@@ -4,7 +4,7 @@ import dark_arror from '../../assets/dark-arrow.png'
 
 const Hero = () => {
   return (
-    <div className='hero container'>
+    <div className='hero container' id='hero'>
         <div className="hero-text">
             <h1>Empowering Futures Innovate, Learn, and Achieve Excellence Together</h1>
             <p>Empowering minds, inspiring futures. Our institution is committed to academic excellence, 

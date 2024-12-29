@@ -41,3 +41,14 @@
                  understand more where opacity is 0 */
     padding-top: 0;
 }
+
+/* ----- media query ----- */
+@media (max-width:650px){
+    .programs{
+        flex-direction: column;
+    }
+    .program-details{
+        flex-basis: 100%;
+        margin: 20px;
+    }
+}
